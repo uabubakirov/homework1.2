@@ -36,9 +36,6 @@ public class Main {
             return ("Оставайтесь дома");
         }
 
-
-
-
     }
 
 
