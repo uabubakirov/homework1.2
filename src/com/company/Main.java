@@ -25,6 +25,9 @@ public class Main {
         System.out.println(randomAgeResult);
     }
 
+
+
+
     public static String walk(int age, int temp) {
         if (age >= 20 && age <= 40 && temp >= -20 && temp <= 30) {
             return ("Можно идти гулять");
